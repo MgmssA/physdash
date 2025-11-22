@@ -1,0 +1,5 @@
+::: {.content-hidden unless-meta="has-fontawesome"}
+
+<!-- Initialize Fontawesome with any icon {{< fa thumbs-up >}} -->
+
+:::

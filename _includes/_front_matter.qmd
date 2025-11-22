@@ -1,0 +1,28 @@
+---
+title: Titel
+subtitle: Einseiter
+date: 2100-10-10 
+author: \| <small>Călin Aurel Drăgan</small>
+logo: style/mgmss_symbol_color.svg
+# bibliography: references.bib
+format: 
+    physdash-dashboard:
+        # shift-heading-level-by: 1
+        orientation: columns
+        scrolling: false
+        expandable: true
+        number-sections: true
+        number-depth: 1
+        number-offset: 0
+        include-in-header: _includes/_in_header.html
+        # include-after-body: _includes/_after_body.html
+        css: style/_style.css
+        embed-resources: false
+        self-contained-math: false
+has-fontawesome: false
+has-math: true
+has-rating: false
+show-rating: false
+# filters:
+#   - highlight-text
+---

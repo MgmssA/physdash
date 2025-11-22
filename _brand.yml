@@ -1,0 +1,101 @@
+meta:
+    name:
+        full: Montessori Gemeinschaftsschule Saar
+        short: MGS
+    link: 
+        home: https://montessori-sb.de/
+    description: Die Montessori Gemeinschaftsschule Saar arbeitet als Reformschule im gebundenen Ganztagsschulbetrieb. Wir sind eine staatlich anerkannte Ersatzschule in privater Trägerschaft. Schüler*innen können bei uns ab der 5. Klasse lernen und alle im Saarland vorgesehenen Schulabschlüsse erwerben. Wir orientieren uns an den Lehrplänen und den jeweils gültigen Verordnungen für Gemeinschaftsschulen im Saarland.
+    founded: 2007 
+
+logo:
+    small: style/mgmss_symbol_color.png
+    medium: style/mgmss_symbol_color.png
+    large: style/mgmss_symbol_color.svg
+
+color:
+    palette:
+        # Ivory
+        ivory: "#F4F4E7"
+        ivory-shade-1: "#dbdbcf"
+        ivory-shade-2: "#c3c3b8"
+        ivory-shade-3: "#aaaaa1"
+        ivory-shade-4: "#92928a"
+        ivory-shade-5: "#7a7a73"
+        ivory-shade-6: "#61615c"
+        ivory-shade-7: "#494945"
+        ivory-shade-8: "#30302e"
+        ivory-shade-9: "#181817"
+        # Gray
+        gray-shade-1: "#e5e5e5"
+        gray-shade-2: "#cccccc"
+        gray-shade-3: "#b2b2b2"
+        gray-shade-4: "#999999"
+        gray-shade-5: "#7f7f7f"
+        gray-shade-6: "#666666"
+        gray-shade-7: "#4c4c4c"
+        gray-shade-8: "#333333"
+        gray-shade-9: "#191919"
+        # Blue
+        blue: "#4d8ac2"
+        blue-shade-1: "#457cae"
+        blue-shade-2: "#3d6e9b"
+        blue-shade-3: "#356087"
+        blue-shade-4: "#2e5274"
+        blue-shade-5: "#264561"
+        blue-shade-6: "#1e374d"
+        blue-shade-7: "#17293a"
+        blue-shade-8: "#0f1b26"
+        blue-shade-9: "#070d13"
+        # Purple
+        purple: "#af51e7"
+        purple-shade-1: "#9d48cf"
+        purple-shade-2: "#8c40b8"
+        purple-shade-3: "#7a38a1"
+        purple-shade-4: "#69308a"
+        purple-shade-5: "#572873"
+        purple-shade-6: "#46205c"
+        purple-shade-7: "#341845"
+        purple-shade-8: "#23102e"
+        purple-shade-9: "#110817"
+        # Red
+        red: "#D44D39"
+        orange: "#F1C232"
+        yellow: "#D9E150"
+        # Green
+        green: "#477a43"
+        green-shade-1: "#3f6d3c"
+        green-shade-2: "#386135"
+        green-shade-3: "#31552e"
+        green-shade-4: "#2a4928"
+        green-shade-5: "#233d21"
+        green-shade-6: "#1c301a"
+        green-shade-7: "#152414"
+        green-shade-8: "#0e180d"
+        green-shade-9: "#070c06"
+    foreground: blue-shade-8 # The main text color. Typically will be close to black and must have high contrast with the background color.
+    background: ivory #The main background color. Tyically will be close to white and must have high contrast with the foreground color.
+    primary: blue-shade-6 # The primary accent color, used for hyperlinks, active states, and primary action buttons.
+    secondary: ivory-shade-7 # The secondary accent color, often used for lighter text or disabled states.
+    tertiary: gray-shade-7 # The tertiary accent color, used for hover states, accents, and wells.
+    success: green # The color used for positive or successful actions and information.
+    info: blue # The color used for neutral or informational actions and information.
+    warning: orange # The color used for warning or cautionary actions and information.
+    danger: red # The color used for errors, dangerous actions, or negative information.
+    
+typography:
+    fonts: 
+      - family: Oxanium
+        source: bunny
+      - family: Gabarito
+        source: bunny
+      - family: Asap
+        source: bunny
+
+    base:
+        family: Asap
+        # size: 1.1em
+    headings:
+        family: Oxanium
+        color: ivory-shade-7
+    link:
+        color: blue
